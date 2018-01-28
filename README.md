@@ -9,7 +9,7 @@ This application can be reached at #'www.' or running the server locally, after 
 
 2.  Local installation:
 To install all the required dependencies locally, type on your command line:
-
+	
 	npm install
 
 And install the dependencies as a package. And then to run the server, type:
